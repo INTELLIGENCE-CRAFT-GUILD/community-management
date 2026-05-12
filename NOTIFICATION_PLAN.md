@@ -1,4 +1,4 @@
-# Bildirim Sistemi (Notification System) - Implementation Plan
+# Notification System (Notification System) - Implementation Plan
 
 ## 📋 Plan Summary
 
